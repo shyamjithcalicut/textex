@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/u4codesystem/textex/BuildConfig.java
+ com.u4codesystem.textex.BuildConfig
